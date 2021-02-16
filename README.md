@@ -1,2 +1,3 @@
+https://chingiz-dev.github.io/cat-clicker/
+
 # cat-clicker
-cat clicker just for check what I do remember
